@@ -27,6 +27,24 @@
 
 ---
 
+## 🏆 Hackathons & Achievements
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="[LINK_TO_LINKEDIN](https://www.linkedin.com/posts/mena-r_tancamhackathon-womenintech-machinelearning-activity-7232402369320206336-JJpS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD5CiAgBL01PknVPPrG5SLwErA8ZZrg3vE8)" target="_blank">
+          <img src="LINK_TO_IMAGE" alt="Hackathon Name" width="200px" style="border-radius:15px;"><br/>
+          <sub><b>TANCAM</b></sub>
+        </a><br/>
+        <a href="LINK_TO_GITHUB_REPO" target="_blank">🌟 Project Repo</a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ## 🚀 Top 3 Projects
 | Project | Description | Link |
 | :--- | :--- | :--- |
