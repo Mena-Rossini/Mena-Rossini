@@ -17,10 +17,13 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+
 ---
 
-## 🧠 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/MenaRossini)
+## 🏆 Hackathons & Achievements
+- 🥇 **Winner - [Hackathon Name]** - [🔗 LinkedIn Post/Blog](your-link-here)
+- 🥈 **Runner-up - [Another Hackathon]** - [🔗 Blog/LinkedIn](your-link-here)
+
 
 ---
 
@@ -31,17 +34,17 @@
 | **Django ORM App** | A Django web app demonstrating ORM concepts | [🔗 View Project](https://github.com/Mena-Rossini/django-orm-app) |
 | **Event Registration** | Web application for seamless event registrations | [🔗 View Project](https://github.com/Mena-Rossini/event-registration) |
 
+
 ---
 
-## 🏆 Hackathons & Achievements
-- 🥇 **Winner - [Hackathon Name]** - [🔗 LinkedIn Post/Blog](your-link-here)
-- 🥈 **Runner-up - [Another Hackathon]** - [🔗 Blog/LinkedIn](your-link-here)
+## 🧠 LeetCode Stats
 
-*(More updates coming soon!)*
+[![LeetCode user](https://leetcard.jacoblin.cool/MenaRossini?theme=unicorn&ext=contest)](https://leetcode.com/MenaRossini/)
 
 ---
 
 ## 📈 GitHub Stats
+
 ![Mena-Rossini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mena-Rossini&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mena-Rossini&layout=compact&theme=radical)](https://github.com/Mena-Rossini)
@@ -51,3 +54,5 @@
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mena-R)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/MenaRossini)
+
+---
