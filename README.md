@@ -29,19 +29,50 @@
 
 ## 🏆 Hackathons & Achievements
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://www.linkedin.com/posts/mena-r_tancamhackathon-womenintech-machinelearning-activity-7232402369320206336-JJpS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD5CiAgBL01PknVPPrG5SLwErA8ZZrg3vE8" target="_blank">
-          <img src="https://github.com/Mena-Rossini/Mena-Rossini/blob/main/tancam.jpeg" alt="Hackathon Name" width="200px" style="border-radius:15px;"><br/>
-          <sub><b>TANCAM</b></sub>
-        </a><br/>
-        <a href="LINK_TO_GITHUB_REPO" target="_blank">🌟 Project Repo</a>
-      </td>
-    </tr>
-  </table>
+<style>
+.hackathon-card {
+  display: inline-block;
+  text-align: center;
+  margin-right: 20px;
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+.hackathon-card img {
+  width: 400px;
+  border-radius: 15px;
+  transition: transform 0.3s, filter 0.3s;
+}
+.hackathon-card:hover {
+  transform: scale(1.05);
+}
+.hackathon-card img:hover {
+  filter: brightness(1.1);
+  box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.3);
+}
+</style>
+
+<div style="overflow-x: auto; white-space: nowrap; padding: 10px;">
+
+  <a href="[https://www.linkedin.com/posts/mena-r_tancamhackathon-womenintech-machinelearning-activity-7232402369320206336-JJpS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD5CiAgBL01PknVPPrG5SLwErA8ZZrg3vE8" target](https://www.linkedin.com/posts/mena-r_ibmzday-ibmzdatathon-activity-7131913813641072640-5MVQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD5CiAgBL01PknVPPrG5SLwErA8ZZrg3vE8)="_blank" class="hackathon-card">
+    <img src="Images/ibm1.jpeg" alt="IBMZ DATATHON1"><br/>
+    <sub><b>IBMZ DATATHON 2023 Hackathon</b></sub><br/>
+    <sub><b>TANCAM Hackathon</b></sub><br/>
+    <a href="https://github.com/Mena-Rossini/dummy-repo" target="_blank">🌟 Project Repo</a>
+  </a>
+
+  <a href="https://your-linkedin-link-2.com" target="_blank" class="hackathon-card">
+    <img src="https://raw.githubusercontent.com/Mena-Rossini/Mena-Rossini/main/hackathon2.jpeg" alt="Hackathon 2"><br/>
+    <sub><b>Hackathon 2 Name</b></sub><br/>
+    <a href="https://github.com/Mena-Rossini/hackathon2-repo" target="_blank">🌟 Project Repo</a>
+  </a>
+
+  <a href="https://www.linkedin.com/posts/mena-r_from-regional-to-global-mastering-innovation-activity-7266482429362626561-adf9?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD5CiAgBL01PknVPPrG5SLwErA8ZZrg3vE8" target="_blank" class="hackathon-card">
+    <img src="https://raw.githubusercontent.com/Mena-Rossini/Mena-Rossini/refs/heads/main/Images/ibm2.webp" alt="Hackathon 3"><br/>
+    <sub><b>IBM Z DATATHON 2024</b></sub><br/>
+    <a href="https://github.com/Mena-Rossini/hackathon3-repo" target="_blank">🌟 Project Repo</a>
+  </a>
+
 </div>
+
 
 ---
 
