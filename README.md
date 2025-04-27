@@ -1,6 +1,7 @@
-# Hi there! 👋 I'm Mena Rossini R
+# Hi there, I'm Mena! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
----
+Welcome to my GitHub profile! 🚀
+
 
 ## 🚀 About Me
 - 💻 Passionate about coding, problem-solving, and innovative development
