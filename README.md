@@ -29,39 +29,36 @@
 
 ## 🏆 Hackathons & Achievements
 
-## 🏆 Hackathons & Achievements
+<div style="display: flex; overflow-x: auto; padding: 20px; gap: 30px;">
 
-<div style="overflow-x: auto; white-space: nowrap; padding: 10px;">
-
-  <div style="display: inline-block; text-align: center; margin-right: 30px; width: 400px;">
+  <div style="flex: 0 0 auto; width: 350px; text-align: center; border: 1px solid #e1e4e8; border-radius: 15px; padding: 20px; background: #ffffff; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
     <a href="https://www.linkedin.com/posts/mena-r_tancamhackathon-womenintech-machinelearning-activity-7232402369320206336-JJpS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD5CiAgBL01PknVPPrG5SLwErA8ZZrg3vE8" target="_blank">
-      <img src="https://raw.githubusercontent.com/Mena-Rossini/Mena-Rossini/main/tancam.jpeg" alt="TANCAM Hackathon" width="400px" style="border-radius: 15px;"><br/>
+      <img src="https://raw.githubusercontent.com/Mena-Rossini/Mena-Rossini/main/tancam.jpeg" alt="TANCAM Hackathon" style="width: 100%; border-radius: 10px;">
     </a>
-    <h3>TANCAM Hackathon</h3>
-    <p style="font-size: 14px; padding: 0 10px;">🏆 Winner at TANCAM Hackathon for building an AI-based smart city solution using Machine Learning and IoT technologies.</p>
-    <a href="https://github.com/Mena-Rossini/dummy-repo" target="_blank">🌟 Visit Project Repo</a>
+    <h3 style="margin: 15px 0 10px 0;">TANCAM Hackathon</h3>
+    <p style="font-size: 14px; color: #555;">🏆 Winner for developing a Smart City AI Solution integrating Machine Learning and IoT.</p>
+    <a href="https://github.com/Mena-Rossini/dummy-repo" target="_blank" style="font-weight: bold; text-decoration: none; color: #0366d6;">🌟 Visit Project Repo</a>
   </div>
 
-  <div style="display: inline-block; text-align: center; margin-right: 30px; width: 400px;">
+  <div style="flex: 0 0 auto; width: 350px; text-align: center; border: 1px solid #e1e4e8; border-radius: 15px; padding: 20px; background: #ffffff; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
     <a href="https://your-linkedin-link-2.com" target="_blank">
-      <img src="https://raw.githubusercontent.com/Mena-Rossini/Mena-Rossini/main/hackathon2.jpeg" alt="Hackathon 2" width="400px" style="border-radius: 15px;"><br/>
+      <img src="https://raw.githubusercontent.com/Mena-Rossini/Mena-Rossini/main/hackathon2.jpeg" alt="Hackathon 2" style="width: 100%; border-radius: 10px;">
     </a>
-    <h3>Hackathon 2 Name</h3>
-    <p style="font-size: 14px; padding: 0 10px;">🥇 Top 3 finalist at XYZ Hackathon for developing a blockchain-based secure finance platform.</p>
-    <a href="https://github.com/Mena-Rossini/hackathon2-repo" target="_blank">🌟 Visit Project Repo</a>
+    <h3 style="margin: 15px 0 10px 0;">Hackathon 2 Name</h3>
+    <p style="font-size: 14px; color: #555;">🥇 Finalist for designing a blockchain-based finance platform improving security.</p>
+    <a href="https://github.com/Mena-Rossini/hackathon2-repo" target="_blank" style="font-weight: bold; text-decoration: none; color: #0366d6;">🌟 Visit Project Repo</a>
   </div>
 
-  <div style="display: inline-block; text-align: center; margin-right: 30px; width: 400px;">
+  <div style="flex: 0 0 auto; width: 350px; text-align: center; border: 1px solid #e1e4e8; border-radius: 15px; padding: 20px; background: #ffffff; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
     <a href="https://your-linkedin-link-3.com" target="_blank">
-      <img src="https://raw.githubusercontent.com/Mena-Rossini/Mena-Rossini/main/hackathon3.jpeg" alt="Hackathon 3" width="400px" style="border-radius: 15px;"><br/>
+      <img src="https://raw.githubusercontent.com/Mena-Rossini/Mena-Rossini/main/hackathon3.jpeg" alt="Hackathon 3" style="width: 100%; border-radius: 10px;">
     </a>
-    <h3>Hackathon 3 Name</h3>
-    <p style="font-size: 14px; padding: 0 10px;">🏅 Semi-finalist at ABC Hackathon with a real-time language translation app powered by AI.</p>
-    <a href="https://github.com/Mena-Rossini/hackathon3-repo" target="_blank">🌟 Visit Project Repo</a>
+    <h3 style="margin: 15px 0 10px 0;">Hackathon 3 Name</h3>
+    <p style="font-size: 14px; color: #555;">🏅 Built a real-time translation app using AI and made it to the semi-finals.</p>
+    <a href="https://github.com/Mena-Rossini/hackathon3-repo" target="_blank" style="font-weight: bold; text-decoration: none; color: #0366d6;">🌟 Visit Project Repo</a>
   </div>
 
 </div>
-
 
 
 ---
